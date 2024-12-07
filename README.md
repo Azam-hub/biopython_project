@@ -11,7 +11,7 @@ Make sure you have the following installed:
 ## Setup Instructions
 
 ### Step 1: Clone the Repository
-Open `CMD` (Command Prompt) and run the following command to clone the repository:
+Create a new folder and Open `CMD` (Command Prompt) in that folder and run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/Azam-hub/biopython_project.git .
@@ -41,7 +41,7 @@ Now you can run the main script with Python. Use the following command to execut
 python main.py
 ```
 
-### Step 6: Deactivate the Conda Environment (Optional)
+<!-- ### Step 6: Deactivate the Conda Environment (Optional)
 Once you're done working with the project, you can deactivate the Conda environment by running:
 
 ```bash
@@ -92,4 +92,4 @@ If you'd like to contribute to the project, feel free to fork the repository, cr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
